@@ -1,4 +1,5 @@
 # Academy-Course-DAT31053
+
 **An Introduction to GeoJSON**
 
 This course is a CrashProgram (short course) introducing the GeoJSON format for working with geographical data. The course is at an introductory technical level. It requires some familiarity with data specifications such as JSON and a very basic knowledge of Python
